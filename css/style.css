@@ -1,0 +1,39 @@
+.header{
+  height: 100px;
+  background-color: blue;
+}
+.wrapper{overflow: hidden;}
+
+.contact{
+  height: 100px;
+  background-color: red;
+  width: 60%;
+  float: left;
+}
+.bloge{
+  height: 100px;
+  background-color: orange;
+  width: 40%;
+  float: right;
+}
+.container{
+overflow: hidden;
+}
+.box{
+  height: 100px;
+  width: 25%;
+  float: left;
+}
+.pink{
+  background-color: hotpink;
+}
+.yellow{background-color: yellow;}
+.red{
+  background-color: red;
+}
+.green{background-color: green;} 
+
+.footer{
+  height: 100px;
+  background-color: black;
+}
